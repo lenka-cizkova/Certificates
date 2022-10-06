@@ -2,7 +2,7 @@
 
 
 ## Languages
-#### [Dutch - NT2](https://github.com/lenka-cizkova/Certificates/blob/main/staatsexamenNT2-diploma.pdf)
+#### [Dutch - State Exam Dutch as a Second Language (Staatsexamen Nederlands als tweede taal, Programma II)](https://github.com/lenka-cizkova/Certificates/blob/main/staatsexamenNT2-diploma.pdf)
 
 
 ## Software Engineering
