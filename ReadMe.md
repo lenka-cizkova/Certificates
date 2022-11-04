@@ -5,7 +5,7 @@
 #### [Dutch - State Exam Dutch as a Second Language (Staatsexamen Nederlands als tweede taal, Programma II)](https://github.com/lenka-cizkova/Certificates/blob/main/staatsexamenNT2-diploma.pdf)
 
 
-## Software Engineering
+## Software Engineering / DevOps
 #### [Python (SoloLearn)](https://www.sololearn.com/certificates/CT-VCDXCQVP)
 #### [Python (Kaggle)](https://www.kaggle.com/learn/certification/lenkacizkova/python)
 
@@ -13,12 +13,16 @@
 
 #### [UML and Object-Oriented Design Foundations (Udemy)](https://www.udemy.com/certificate/UC-685227ce-50da-4f30-8504-d801d2c323eb/)
 
+#### [DevOps Bootcamp: Terraform (Udemy)](https://www.udemy.com/certificate/UC-330862ad-e0c6-4dcb-a4d8-9a7eb25ca66c/)
+
 #### [Problem Solving (HackerRank)](https://www.hackerrank.com/certificates/00e04b1a02ae)
 - [my profile at HackerRank](https://www.hackerrank.com/lenka_cizkova) 
 (Gold Level in Problem Solving, C++, Java, Python, SQL, 30 Days of Code, 10 Days of JS, 10 Days of Statistics; Top 0.5% in Project Euler+ / [the 4th best in the Netherlands](https://www.hackerrank.com/contests/projecteuler/leaderboard?filter=Netherlands&filter_on=country))
 
 
 ## Data Science / ML
+#### [Machine Learning Engineer skill set - Assessment by Workera.ai (a DeepLearning.AI company)](https://github.com/lenka-cizkova/Certificates/blob/main/_certificate_Workera_Machine%2BLearning%2BEngineer-9N3ZUMOK_LC_221102.pdf)
+
 #### [Introduction to Data Science - Specialization (IBM, via Coursera)](https://www.coursera.org/account/accomplishments/specialization/Q29RKQWHSYYD)
 
 #### [IBM Data Science - Professional Certificate (IBM, via Coursera)](https://www.coursera.org/account/accomplishments/professional-cert/EJJNZWYTUL6K)
